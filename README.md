@@ -76,7 +76,7 @@ Beberapa temuan penting dari tahapan EDA awal:
 1. Clone repositori ini:
 
    ```
-   git clone https://github.com/username-anda/airlines-price-prediction.git
+   git clone https://github.com/yahyaabdulloh28/project_datascience.git
    
    ```
 
